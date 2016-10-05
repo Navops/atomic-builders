@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t f24-ostree .
+docker build -t f21-atomic-image .
